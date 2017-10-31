@@ -1,7 +1,5 @@
-package ca.ualberta.cs.lonelytwitter;
+package ca.ualberta.cs.lonelytweet;
 
-import java.io.IOException;
-import java.io.Serializable;
 import java.util.Date;
 
 public class NormalLonelyTweet extends LonelyTweet {
